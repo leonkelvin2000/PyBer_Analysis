@@ -10,7 +10,7 @@
 - Urban cities have the highest total of rides, drivers and fare but Average Fare per Ride an Average Fare per Driver is lower due to it being more common to have in the city. 
 - Suburban cities are in the median for all the data list - this shows that Suburbans cities have the best of both worlds where the ride prices are not expensive as Rural cities and not as cheap at Urban cities. 
 
-    <img width="524" alt="Screen Shot 2022-03-27 at 10 50 52 PM" src="https://user-images.githubusercontent.com/98680133/160318430-6f101d3d-9243-4196-9370-30d9cf822b15.png">
+             <img width="524" alt="Screen Shot 2022-03-27 at 10 50 52 PM" src="https://user-images.githubusercontent.com/98680133/160318430-6f101d3d-9243-4196-9370-30d9cf822b15.png">
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/98680133/160319020-93dfe88e-2dd9-49bc-8634-d79a3dd323d0.png)
 
